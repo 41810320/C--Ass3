@@ -1,0 +1,14 @@
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\bin\Debug\net9.0\Assignment Session03.exe
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\bin\Debug\net9.0\Assignment Session03.deps.json
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\bin\Debug\net9.0\Assignment Session03.runtimeconfig.json
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\bin\Debug\net9.0\Assignment Session03.dll
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\bin\Debug\net9.0\Assignment Session03.pdb
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.AssemblyInfoInputs.cache
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.AssemblyInfo.cs
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.csproj.CoreCompileInputs.cache
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.dll
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\refint\Assignment Session03.dll
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.pdb
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\Assignment Session03.genruntimeconfig.cache
+E:\Backend\3- c#\Eng. Aliaa\Section 3\Assignment\Assignment Session03 Solution\Assignment Session03\obj\Debug\net9.0\ref\Assignment Session03.dll
